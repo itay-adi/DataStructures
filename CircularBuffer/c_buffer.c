@@ -1,8 +1,3 @@
-/*
-* File Name - c_buffer.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdlib.h> /* malloc, free */
 #include <assert.h> /* assert */
 #include <errno.h> /* errno */
