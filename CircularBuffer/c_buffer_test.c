@@ -1,8 +1,3 @@
-/*
-* File Name - c_buffer_test.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdio.h> /* printf */
 #include <stddef.h> /* size_t */
 #include <string.h> /* strerror */
