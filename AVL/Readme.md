@@ -8,8 +8,7 @@ Find, insertion, and remove are O(log n), where n is the number of nodes in the 
 
 
 ## avl implemintation consist 3 files:
-
-[avl.h](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl.h): a header file
-[avl.c](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl.c): functions implemintation
-[avl_test.c](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl_test.c) for a functionality testing
+* [avl.h](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl.h): a header file
+* [avl.c](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl.c): functions implemintation
+* [avl_test.c](https://github.com/itay-adi/DataStructures/blob/main/AVL/avl_test.c) for a functionality testing
 
