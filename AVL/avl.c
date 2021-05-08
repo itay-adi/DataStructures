@@ -1,8 +1,3 @@
-/*
-* File Name - avl.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdlib.h> /* malloc, free */
 #include <stdio.h>
 #include <assert.h> /* assert */
