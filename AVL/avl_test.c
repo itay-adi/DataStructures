@@ -1,8 +1,3 @@
-/*
-* File Name - avl_test.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdio.h> /* printf */
 #include <assert.h> /* assert */ 
 
