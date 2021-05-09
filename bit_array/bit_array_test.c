@@ -1,8 +1,3 @@
-/*
-* File Name - bit_array_test.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdio.h> /* printf */
 #include <stdlib.h> /* calloc, free */
 #include <stddef.h> /* size_t */
