@@ -1,8 +1,3 @@
-/*
-* File Name - bst.c
-* Developer - Itay Adi Yosef
-*/
-
 /******************************************************************************/
 
 #include <stdlib.h> /* malloc, free */
