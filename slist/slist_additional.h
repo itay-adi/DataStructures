@@ -1,8 +1,3 @@
-/*
-* File Name - slist_additional.h
-* Developer - Itay Adi Yosef
-*/
-
 #ifndef ILRD_SLIST_ADD_H
 #define ILRD_SLIST_ADD_H
 
