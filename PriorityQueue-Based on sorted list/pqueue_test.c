@@ -1,8 +1,3 @@
-/*
-* File Name - pqueue_test.c
-* Developer - Itay Adi Yosef
-*/
-
 /***************************User's declarations********************************/
 
 #include <stdio.h> /*printf*/
