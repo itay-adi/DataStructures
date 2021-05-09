@@ -1,8 +1,3 @@
-/*
-* File Name - pqueue.c
-* Developer - Itay Adi Yosef
-*/
-
 /******************************************************************************/
 
 #include <stdlib.h> /* malloc, free */
