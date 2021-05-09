@@ -1,9 +1,3 @@
-/*
-* File Name - bit_array.h
-* Developer - Itay Adi Yosef
-*/
-
-
 #ifndef ILRD_BIT_ARRAY_H
 #define ILRD_BIT_ARRAY_H
 
