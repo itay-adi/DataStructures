@@ -1,8 +1,3 @@
-/*
-* File Name - dlist.c
-* Developer - Itay Adi Yosef
-*/
-
 /******************************************************************************/
 
 #include <stdlib.h> /* malloc, free */
