@@ -1,8 +1,3 @@
-/*
-* File Name - queue_test.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdio.h> /* printf */
 #include <stdlib.h> /* malloc, free */
 
