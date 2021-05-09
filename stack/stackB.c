@@ -1,8 +1,3 @@
-/*
-* File Name - stack.c
-* Developer - Itay Adi Yosef
-*/
-
 /***********************************************************/
 struct min_stack
 	{
