@@ -1,8 +1,3 @@
-/*
-* File Name - sorted_list.c
-* Developer - Itay Adi Yosef
-*/
-
 /******************************************************************************/
 
 #include <stdlib.h> /*malloc, free*/
