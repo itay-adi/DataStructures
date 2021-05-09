@@ -1,8 +1,3 @@
-/*
-* File Name - vector.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stddef.h>	/* size_t */
 #include <stdlib.h> /* malloc, realloc, free */
 #include <assert.h> /* assert */
