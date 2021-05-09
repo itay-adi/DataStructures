@@ -1,8 +1,3 @@
-/*
-* File Name - slist.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdlib.h> /* malloc, free */
 #include <assert.h> /* assert */
 
