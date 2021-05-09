@@ -1,8 +1,3 @@
-/*
-* File Name - hash_table_test.c
-* Developer - Itay Adi Yosef
-*/
-
 #include <stdio.h> /* printf */
 #include <string.h> /* strcmp */
 #include <stdlib.h> /* exit */
