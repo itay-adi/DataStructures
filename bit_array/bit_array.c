@@ -1,8 +1,3 @@
-/*
-* File Name - bit_array.h
-* Developer - Itay Adi Yosef
-*/
-   
 #include <stddef.h> /* size_t */ 
 #include <stdlib.h> /* calloc, free */
 #include <assert.h> /* assert */
