@@ -17,6 +17,6 @@ Dynamic vector is a random access dynamic array.
 * VectorCapacity - returns the capacity of the vector
 
 ## Stack implemintation consist 3 files:
-[vector.h](https://github.com/itay-adi/DataStructures/blob/main/vector/vector.h): a header file
-[vector.c](https://github.com/itay-adi/DataStructures/blob/main/vector/vector.c): function implemintations
-[vector_test.c](https://github.com/itay-adi/DataStructures/blob/main/vector/vector_test.c): for a functionality testing
+* [vector.h](https://github.com/itay-adi/DataStructures/blob/main/vector/vector.h): a header file
+* [vector.c](https://github.com/itay-adi/DataStructures/blob/main/vector/vector.c): function implemintations
+* [vector_test.c](https://github.com/itay-adi/DataStructures/blob/main/vector/vector_test.c): for a functionality testing
