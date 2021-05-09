@@ -1,4 +1,4 @@
-# hash table
+# Hash Table
 
 A hash table is an unordered collection of key-value pairs, where each key is unique.
 Hash tables offer a combination of efficient lookup, insert and delete operations.
