@@ -19,4 +19,4 @@ Hash tables offer a combination of efficient lookup, insert and delete operation
 ## hash_table implemintation consist 3 files
 * [hash_table.h](https://github.com/itay-adi/DataStructures/blob/main/hash_table/hash_table.h): a header file
 * [hash_table.c](https://github.com/itay-adi/DataStructures/blob/main/hash_table/hash_table.c): functions implemintation
-* [hash_table_test.c](https://github.com/itay-adi/DataStructures/blob/main/hash_table/hash_table_test.h): for a functionality testing
+* [hash_table_test.c](https://github.com/itay-adi/DataStructures/blob/main/hash_table/hash_table_test.c): for a functionality testing
