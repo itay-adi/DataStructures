@@ -1,8 +1,3 @@
-/*
-* File Name - stack_test.c
-* Developer - Itay Adi Yosef
-*/
-
 /******************************User declarations*******************************/
 
 #include <stdio.h> /* printf */
