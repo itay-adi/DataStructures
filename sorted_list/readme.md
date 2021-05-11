@@ -5,6 +5,7 @@ Sorted list is a linear data structure, where elements are sorted according to a
 * Sort at insert
 * Stable sort
 * User provides a function to sort by
+* Based on [Dlist](https://github.com/itay-adi/DataStructures/tree/main/dlist)
 
 ## Attributes
 * Grows by demand
